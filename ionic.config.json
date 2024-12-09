@@ -1,7 +1,8 @@
 {
-  "name": "myApp",
+  "name": "yourAppName",
+  "type": "angular",
   "integrations": {
-    "capacitor": {}
-  },
-  "type": "angular"
+    "capacitor": {},
+    "iosPath": "ios/App"
+  }
 }
